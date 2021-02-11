@@ -26,6 +26,7 @@
   "dependencies": {
     "@types/styled-components": "^5.1.7",
     "next": "10.0.6",
+    "next-pwa": "^5.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "styled-components": "^5.2.1"
@@ -33,10 +34,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@babel/preset-typescript": "^7.12.13",
-    "@storybook/addon-actions": "^6.1.17",
     "@storybook/addon-essentials": "^6.1.17",
-    "@storybook/addon-knobs": "^6.1.17",
-    "@storybook/addon-links": "^6.1.17",
     "@storybook/react": "^6.1.17",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
